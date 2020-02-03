@@ -144,7 +144,7 @@ collections:
             }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-                - file: 'src/pages/psychologicalinterrests/index.md'
+      - file: 'src/pages/psychologicalinterrests/index.md'
         label: 'Psychological Interrests'
         name: 'psychologicalinterrests'
         fields:
